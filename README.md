@@ -2,7 +2,7 @@
 
 ## go get 
 ```bash
-github.com/rongfengliang/godepdemo
+go get github.com/rongfengliang/godepdemo
 ```
 ## run
 ```bash
