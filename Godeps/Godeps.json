@@ -1,0 +1,17 @@
+{
+	"ImportPath": "mygodept",
+	"GoVersion": "go1.9",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/Masterminds/cookoo",
+			"Comment": "v1.3.0",
+			"Rev": "78aa11ce75e257c51be7ea945edb84cf19c4a6de"
+		},
+		{
+			"ImportPath": "github.com/Masterminds/cookoo/io",
+			"Comment": "v1.3.0",
+			"Rev": "78aa11ce75e257c51be7ea945edb84cf19c4a6de"
+		}
+	]
+}
